@@ -1,1 +1,2 @@
-# projeto-2024
+# Projeto-de-Vida-Benjamin
+Site desenvolvido durante as aulas de Programação do Colégio Benjamin
